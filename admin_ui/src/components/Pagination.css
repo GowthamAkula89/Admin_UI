@@ -1,0 +1,12 @@
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+.page-item {
+  display: inline-block;
+  border-radius: 95px;
+  list-style: none;
+  overflow: hidden;
+}
